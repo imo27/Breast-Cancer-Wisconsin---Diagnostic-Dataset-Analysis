@@ -15,7 +15,7 @@ This project includes:
 * notebook.ipynb: Our core notebook
 * data.csv: Our dataset
 * dictionary.xlsx: A data dictionary explaining the dataset features
-* presentation.pptx: A copy of our presentation slides from 2022-03-09
+
 
 
 ## Key Audiences

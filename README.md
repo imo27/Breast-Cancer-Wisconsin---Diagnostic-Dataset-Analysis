@@ -16,7 +16,7 @@ This project includes:
 * data.csv: Our dataset
 * dictionary.xlsx: A data dictionary explaining the dataset features
 * presentation.pptx: A copy of our presentation slides from 2022-03-09
-* bonus_visualizations.twb: A Tableau workbook with supplemental visualizations
+
 
 ## Key Audiences
 
